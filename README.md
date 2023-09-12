@@ -1,3 +1,2 @@
-# Anfield-Road
-A project about Liverpool FC's home ground
-Happy trails Hans.
+# Bart: First Python Project
+A project about using Python and the GitHub environment.
